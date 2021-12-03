@@ -5,7 +5,7 @@ My solutions to the [Advent of Code 2021](https://adventofcode.com/2021) problem
 | Solutions                               | Lang       |      |
 | --------------------------------------- | ---------- | ---- |
 | [Day 01: Sonar Sweep](./01/)            | Javascript | ⭐🌟 |
-| Day 02: ...                             | ...        | ...  |
+| [Day 02: Dive!](./02/)                  | Javascript | ⭐🌟 |
 | Day 03: ...                             | ...        | ...  |
 | Day 04: ...                             | ...        | ...  |
 | Day 05: ...                             | ...        | ...  |
