@@ -8,7 +8,7 @@ My solutions to the [Advent of Code 2021](https://adventofcode.com/2021) problem
 | [Day 02: Dive!](./02/)                  | Javascript | ⭐🌟 |
 | [Day 03: Binary Diagnostic](./03/)      | Javascript | ⭐🌟 |
 | [Day 04: Giant Squid](./04/)            | Javascript | ⭐🌟 |
-| Day 05: ...                             | ...        | ...  |
+| [Day 05: Hydrothermal Venture](./05/)   | Elixir     | ⭐🌟 |
 | Day 06: ...                             | ...        | ...  |
 | Day 07: ...                             | ...        | ...  |
 | Day 08: ...                             | ...        | ...  |
