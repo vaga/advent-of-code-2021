@@ -11,7 +11,7 @@ My solutions to the [Advent of Code 2021](https://adventofcode.com/2021) problem
 | [Day 05: Hydrothermal Venture](./05/)    | Elixir     | ⭐🌟 |
 | [Day 06: Lanternfish](./06/)             | Javascript | ⭐🌟 |
 | [Day 07: The Treachery of Whales](./07/) | Javascript | ⭐🌟 |
-| Day 08: ...                              | ...        | ...  |
+| [Day 08: Seven Segment Search](./08/)    | Javascript | ⭐🌟 |
 | Day 09: ...                              | ...        | ...  |
 | Day 10: ...                              | ...        | ...  |
 | Day 11: ...                              | ...        | ...  |
@@ -28,3 +28,4 @@ My solutions to the [Advent of Code 2021](https://adventofcode.com/2021) problem
 | Day 22: ...                              | ...        | ...  |
 | Day 23: ...                              | ...        | ...  |
 | Day 24: ...                              | ...        | ...  |
+| Day 25: ...                              | ...        | ...  |
