@@ -13,6 +13,7 @@ My solutions to the [Advent of Code 2021](https://adventofcode.com/2021) problem
 | [Day 07: The Treachery of Whales](./07/) | Javascript | ⭐🌟 |
 | [Day 08: Seven Segment Search](./08/)    | Javascript | ⭐🌟 |
 | [Day 09: Smoke Basin](./09/)             | Javascript | ⭐🌟 |
+| [Day 10: Syntax Scoring](./10/)          | Javascript | ⭐🌟 |
 | Day 10: ...                              | ...        | ...  |
 | Day 11: ...                              | ...        | ...  |
 | Day 12: ...                              | ...        | ...  |
