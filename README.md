@@ -15,7 +15,7 @@ My solutions to the [Advent of Code 2021](https://adventofcode.com/2021) problem
 | [Day 09: Smoke Basin](./09/)             | Javascript | ⭐🌟 |
 | [Day 10: Syntax Scoring](./10/)          | Javascript | ⭐🌟 |
 | [Day 11: Dumbo Octopus](./11/)           | Javascript | ⭐🌟 |
-| Day 12: ...                              | ...        | ...  |
+| [Day 12: Passage Pathing](./12/)         | Javascript | ⭐🌟 |
 | Day 13: ...                              | ...        | ...  |
 | Day 14: ...                              | ...        | ...  |
 | Day 15: ...                              | ...        | ...  |
