@@ -16,7 +16,7 @@ My solutions to the [Advent of Code 2021](https://adventofcode.com/2021) problem
 | [Day 10: Syntax Scoring](./10/)          | Javascript | ⭐🌟 |
 | [Day 11: Dumbo Octopus](./11/)           | Javascript | ⭐🌟 |
 | [Day 12: Passage Pathing](./12/)         | Javascript | ⭐🌟 |
-| Day 13: ...                              | ...        | ...  |
+| [Day 13: Transparent Origami](./13/)     | Javascript | ⭐🌟 |
 | Day 14: ...                              | ...        | ...  |
 | Day 15: ...                              | ...        | ...  |
 | Day 16: ...                              | ...        | ...  |
